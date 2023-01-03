@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960025410178",
+    "firebase_url": "https://hackatonpsu.firebaseio.com",
+    "project_id": "hackatonpsu",
+    "storage_bucket": "hackatonpsu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960025410178:android:49dd49bc4a407ce44f529b",
+        "android_client_info": {
+          "package_name": "com.yubaneupane.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960025410178-jeb9n6tcmre2pfpjpioknc7sten7demo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSpNb4FQCqa8dNKx-Qxa2yma3bjh_3V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960025410178-jeb9n6tcmre2pfpjpioknc7sten7demo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
